@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SavedRepos renders correctly 1`] = `
+<Fragment>
+  <p>
+    No saved repos
+  </p>
+</Fragment>
+`;

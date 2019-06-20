@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RepoItem renders correctly 1`] = `
+<div
+  className="card mt-4"
+>
+  <div
+    className="card-header d-flex justify-content-between align-items-center"
+  >
+    <div
+      className="font-weight-bold"
+    >
+      User: 
+      test
+    </div>
+    <button
+      className="btn btn-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      Save
+    </button>
+  </div>
+  <div
+    className="card-body"
+  >
+    <a
+      className="link-unstyled"
+      href="test"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <h5
+        className="card-title"
+      >
+        test
+      </h5>
+    </a>
+    <p
+      className="card-text"
+    >
+      test
+    </p>
+    <span
+      className="badge badge-warning badge-pill mr-3"
+    >
+      test
+    </span>
+  </div>
+</div>
+`;

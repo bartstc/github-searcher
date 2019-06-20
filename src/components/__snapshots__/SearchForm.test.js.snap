@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchForm renders properly 1`] = `
+<Fragment>
+  <div
+    className="input-group mb-3"
+  >
+    <input
+      aria-describedby="basic-addon2"
+      aria-label="Recipient's username"
+      className="search-input form-control"
+      placeholder="Search for repo ..."
+      type="text"
+    />
+    <div
+      className="input-group-append"
+    >
+      <button
+        className="search-submit btn btn-outline-secondary"
+        type="button"
+      >
+        Search
+      </button>
+    </div>
+  </div>
+</Fragment>
+`;

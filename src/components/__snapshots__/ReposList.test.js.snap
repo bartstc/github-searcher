@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReposList renders properly 1`] = `
+<ReposList
+  repos={Object {}}
+>
+  <ul
+    className="list-group mt-2"
+  />
+</ReposList>
+`;

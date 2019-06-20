@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SavedItem renders correctly 1`] = `
+<li
+  className="list-group-item mb-4"
+  key="1"
+>
+  <div
+    className="d-flex justify-content-between align-items-center"
+  >
+    <a
+      className="link-unstyled"
+      href="url"
+    >
+      <h6>
+        name
+      </h6>
+    </a>
+    <button
+      className="btn btn-danger"
+      onClick={[Function]}
+      type="button"
+    >
+      Delete
+    </button>
+  </div>
+  <div>
+    <span
+      className="badge badge-warning badge-pill mr-3"
+    >
+      language
+    </span>
+  </div>
+</li>
+`;
